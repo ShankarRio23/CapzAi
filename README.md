@@ -1,0 +1,2 @@
+# CapzAi
+Teaching Ai Assistant
